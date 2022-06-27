@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c id="IT-ICCD-PHOTO-0097-0000112" audience="external" level="recordgrp">
+  <did>
+    <materialspec encodinganalog="OGTD"><![CDATA[cartolina]]>
+      <num encodinganalog="QNTN"><![CDATA[187]]></num>
+    </materialspec>
+    <materialspec encodinganalog="OGTT"><![CDATA[album]]></materialspec>
+    <unittitle><![CDATA[ALBUM-LIVELLO-DEMO]]>
+      <title><![CDATA[Vedute della Costiera Amalfitana]]></title>
+    </unittitle>
+    <physloc encodinganalog="LDCS"><![CDATA[Depositi climatizzati]]></physloc>
+    <abstract encodinganalog="SGTI"><![CDATA[mare]]></abstract>
+    <abstract encodinganalog="SGTI"><![CDATA[costa]]></abstract>
+    <abstract encodinganalog="SGTI"><![CDATA[natura]]></abstract>
+    <abstract encodinganalog="SGTI"><![CDATA[architettura]]></abstract>
+    <unitdate encodinganalog="DT" normal="19540101-19681231"><![CDATA[1954 - 1968]]>
+      <emph><![CDATA[documentazione testuale interna]]></emph>
+    </unitdate>
+    <origination>
+      <persname encodinganalog="AUTN" authfilenumber="IT-ICCD-EACCPF-0001-000008"><![CDATA[Bonfis, Adrien]]></persname>
+      <persname encodinganalog="AUTN" authfilenumber="IT-ICCD-EACCPF-0001-000072"><![CDATA[Roncarolo, Agostino]]></persname>
+      <persname encodinganalog="AUTN" authfilenumber="IT-ICCD-EACCPF-0001-000149"><![CDATA[Lecchi, Stefano]]></persname>
+      <corpname encodinganalog="AUTB" authfilenumber="Touring Club Italiano"/>
+    </origination>
+    <physdesc encodinganalog="MT" label="specific">
+      <genreform encodinganalog="MTC" id="technique/28"><![CDATA[collotipia]]></genreform>
+      <genreform encodinganalog="MTC" id="technique/37"><![CDATA[fotolitografia]]></genreform>
+      <dimensions encodinganalog="MIS"><![CDATA[10 x 8 cm.]]></dimensions>
+    </physdesc>
+  </did>
+  <phystech encodinganalog="STC">
+    <note encodinganalog="STCS">
+      <p><![CDATA[L'album versa in uno stato di conservazione discreto]]></p>
+    </note>
+  </phystech>
+  <scopecontent encodinganalog="DES">
+    <emph><![CDATA[La preziosa raccolta di cartoline della Costiera Amalfitana è frutto dell'attento lavoro selettivo del sig. Bonifaci che si è prodigato a rinvenire in ambiti informali gli oggetti fotografici che ha con grande cura conservato all'interno dell'album in pelle da lui stesso confezionato]]></emph>
+  </scopecontent>
+  <odd encodinganalog="NSC">
+    <p><![CDATA[<p>L'analisi storica dimostra una provenienza regionale vasta; negli anni i luoghi rappresentati hanno subito alcune modifiche che rendono ancor più preziosa la documentazione del Touring Club</p>]]></p>
+  </odd>
+  <bibliography encodinganalog="BIB">
+    <p><![CDATA[Aa. Vv., Le cartoline degli anni Cinquanta, TCI edizioni, Milano, 1984]]></p>
+  </bibliography>
+</c>
