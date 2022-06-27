@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c id="IT-ICCD-PHOTO-0044-001367" level="item">
+  <did>
+    <unittitle><![CDATA[Roma - Museo Nazionale Romano, Terme di Diocleziano, Chiostro di Michelangelo]]>
+      <title><![CDATA[Titolo non definito]]></title>
+    </unittitle>
+    <unitdate encodinganalog="DT"><![CDATA[1865-1874]]>
+      <extref>
+        <date encodinganalog="DTZ"><![CDATA[1851-1875]]></date>
+      </extref>
+    </unitdate>
+    <physloc encodinganalog="LDCS"><![CDATA[depositi climatizzati]]></physloc>
+    <repository><![CDATA[ICCD-GFN]]>
+      <name encodinganalog="UBFP">
+        <emph><![CDATA[Album]]></emph><![CDATA[Becchetti]]>
+      </name>
+    </repository>
+    <physdesc encodinganalog="MT" label="specific">
+      <physfacet encodinganalog="MTX" type="colore"><![CDATA[BN]]></physfacet>
+      <genreform encodinganalog="MTC" id="technique/15"><![CDATA[albumina]]></genreform>
+      <dimensions encodinganalog="MIS"><![CDATA[132x178 mm]]></dimensions>
+    </physdesc>
+    <materialspec encodinganalog="OGTD"><![CDATA[positivo]]></materialspec>
+    <unittitle encodinganalog="SGLA">
+      <geogname encodinganalog="LRCR" id="place/r_12"><![CDATA[Lazio]]></geogname>
+      <title encodinganalog="SGLT"><![CDATA[Titolo non definito]]></title>
+      <geogname encodinganalog="LRCP" id="place/p_258"><![CDATA[Roma]]></geogname>
+      <geogname encodinganalog="LRCC" id="place/c_058091"><![CDATA[Roma]]></geogname>
+    </unittitle>
+    <unitid encodinganalog="ACC" identifier="530958"/>
+    <origination>
+      <corpname encodinganalog="AUTB" authfilenumber="IT-ICCD-EACCPF-0001-000736"/>
+    </origination>
+  </did>
+  <processinfo>
+    <p>
+      <persname><![CDATA[Marsicola, Clemente]]></persname>
+    </p>
+  </processinfo>
+  <originalsloc encodinganalog="INVN">
+    <p>
+      <num><![CDATA[FB004023_07]]></num>
+    </p>
+  </originalsloc>
+  <controlaccess>
+    <name encodinganalog="CTG"><![CDATA[Architettura]]></name>
+    <title type="ua1"><![CDATA[Album n.18 Roma : 1 (30)]]></title>
+  </controlaccess>
+  <descgrp>
+    <accessrestrict audience="1" altrender="1">
+      <p><![CDATA[0]]></p>
+    </accessrestrict>
+  </descgrp>
+  <processinfo encodinganalog="CMP">
+    <p>
+      <persname encodinganalog="FUR"><![CDATA[Marsicola, Clemente]]></persname>
+      <date encodinganalog="CMPD"><![CDATA[2003 - Duggento, Simona]]></date>
+    </p>
+  </processinfo>
+  <daogrp>
+    <daoloc type="manifest_auto" href="https://iccd.xdams.org/imageserver/presentation/iiif-collection-xDamsPhoto-0044/6054afe9f910d80a6c1f90df/manifest"/>
+  </daogrp>
+</c>
